@@ -1,0 +1,135 @@
+@media screen and (min-width: 600px){
+
+    *{
+       
+        margin: 0 auto;  
+    
+    }
+    
+    .contenedor{
+        width: 100%;
+        background-color: black;
+        color: aliceblue;
+
+        /* display: flex;
+        flex-direction: row; */
+     
+    }
+    .titulo{
+        height: auto;
+        text-align: left;
+        padding-bottom: -8px;
+        padding-top: 15px;
+        font-size: 20px;
+    }
+    .titulostore{
+       font-size: 20px;
+        text-align: center;
+        height: auto;
+        padding-bottom: 3px;
+        padding-left: 190px;
+        margin-top: -15px;
+        margin-bottom: 8px;
+    }
+
+    .titulo2{
+        height: auto;
+        font-size: 15px;
+    }
+
+    .contenido{
+        position: relative;
+        font-size:15px;
+        padding: 5px;
+    }
+    .contenido2{
+        position: relative;
+        font-size:15px;
+    }
+    
+    .logos{
+        height: 35px;
+        float: left;
+        padding: 5px;
+        margin-top: 8px;
+    }
+    .caja1-1{
+        width: 225px;
+        height: 150px;
+        float: left;
+        background-color: black;
+        color: aliceblue;
+        
+    }
+    .caja2{
+        width: 225px;
+        height: 150px;
+        float: left;
+        background-color: black;
+        color: aliceblue;
+    }
+    .caja3{
+        width: 226px;
+        height: 150px;
+        float: left;
+        padding-right: 6px;
+        background-color: black;
+        color: aliceblue;
+    }
+   
+    .caja4{
+        width: 226px;
+        height: 150px;
+        float: left;
+        padding-right: 1px;
+        background-color: black;
+        color: aliceblue;
+    }
+    .caja5{
+        width: 226px;
+        height: 150px;
+        float: left;
+        padding-right: 1px;
+        background-color: black;
+        color: aliceblue;
+    }
+    .caja6{
+        width: 226px;
+        height: 150px;
+        float: left;
+        padding-right: 2px;
+        padding-left: 2px;
+        background-color: black;
+        color: aliceblue;
+  
+    }
+    .caja7{
+        float: left;
+        width: 710px;
+        height: 150px;
+        background-color: black;
+    }
+    .caja8{
+        float: left;
+        background-color: black;
+        width: 655px;
+        height: 150px;
+        text-align: right;
+    }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
